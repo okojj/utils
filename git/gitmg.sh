@@ -13,5 +13,5 @@ if [[ "$FROM" == "" ]] || [[ "$TO" == "" ]] ; then
 fi
 
 
-git checkout $FROM; git pull; git checkout $TO; git merge $FROM
+git checkout $FROM; git pull; git checkout $TO; git merge $FROM; git checkout $FROM
 
