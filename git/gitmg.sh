@@ -1,6 +1,6 @@
 #!/bin/bash
 
-GIT_DEV_NM="dev-ojj"
+GIT_DEV_NM="dev"
 GIT_MAIN_NM="main"
 
 FROM=$1
