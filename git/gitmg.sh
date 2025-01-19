@@ -1,8 +1,5 @@
 #!/bin/bash
 
-GIT_DEV_NM="dev"
-GIT_MAIN_NM="main"
-
 FROM=$1
 TO=$2
 
